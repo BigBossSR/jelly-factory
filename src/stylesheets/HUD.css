@@ -1,0 +1,13 @@
+.HUD {
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 5px;
+    background-color: #5F5858;
+
+    text-align: center;
+}
+
+.resource-indicator {
+    display: inline-block;
+    margin-right: 5%;
+}

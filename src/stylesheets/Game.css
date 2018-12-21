@@ -1,0 +1,24 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    font-family: Arial;
+}
+
+.game-container {
+    width: 79%;
+    height: 100vh;
+    display: inline-block;
+    vertical-align: top;
+
+    border: solid gray 4px;
+    background-color: lightgrey;
+
+    color: white;
+}
+
+.game-container>h1 {
+    text-align: center;
+    color: #3a3a3a;
+}

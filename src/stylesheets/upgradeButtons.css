@@ -1,0 +1,17 @@
+.upgradeStore {
+    display: inline-block;
+    height: 100vh;
+    width: 20%;
+
+    background: darkgrey;
+    overflow-y: scroll;
+}
+
+.upgrade {
+    width: 100%;
+    background: lightgray;
+    color: #3a3a3a;
+    border: ridge 3px gray;
+
+    font-size: .9em;
+}

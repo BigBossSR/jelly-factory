@@ -1,0 +1,11 @@
+.buttonRow {
+    text-align: center;
+    display: inline-block;
+    width: 80%;
+    vertical-align: inherit;
+}
+
+.actionButton {
+    display: inline-block;
+    margin: 2% 5%;
+}
